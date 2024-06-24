@@ -1,6 +1,6 @@
 -BrainWave Introducer Page
 
-A Spa Web App About AI 
+A Spa About AI 
 
 Very Modern Design 
 
